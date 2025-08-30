@@ -118,8 +118,6 @@ PORT=5000
 
 
 ## 👨‍💻 Author
-
-**Nikunj Agarwal**
 - GitHub: [@SahithiKokkula](https://github.com/SahithiKokkula)
 
 ## 🙏 Acknowledgments
