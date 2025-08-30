@@ -130,4 +130,4 @@ PORT=5000
 
 ---
 
-Built with 💙 by [Nikunj Agarwal](https://github.com/SahithiKokkula)
+Built with 💙 by [Kokkula Sahithi](https://github.com/SahithiKokkula)
